@@ -1,21 +1,48 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+To+My+Repository!;" />
+</h1>
 
-# 💫 About Me:
-I'm Sean Yap, Information Systems student in Singapore Management University
+<h2 align="center">💫 About Me 💫</h2>
+<div align="center"> 
+  <h3>I'm Sean Yap, Information Systems student in Singapore Management University</h3>
+</div>
 
+<h2 align="center">🌐 Socials 🌐</h2>
+<div align="center"> 
+  <a href="https://medium.com/@seanyckang">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/seanyckang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://seanyckang.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seanyckang) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@seanyckang) 
+---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">💻 Tech Stack 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vue,github,mongodb,dart,git,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,mysql,flask,docker,tensorflow" /><br>
+</div>
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=s3annnyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align=center>
+  <img  src="https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/><br/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false" alt="readme stats" /><br/>
+  <img  src="https://github-contributor-stats.vercel.app/api?username=s3annnyyy&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contribution" /><br/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" /><br/>  
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=s3annnyyy&icon=0&color=0)](https://visitcount.itsvg.in)
