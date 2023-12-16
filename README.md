@@ -10,7 +10,7 @@
 <h2 align="center">🌐 Socials 🌐</h2>
 <div align="center"> 
   <a href="https://medium.com/@seanyckang">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/seanyckang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
