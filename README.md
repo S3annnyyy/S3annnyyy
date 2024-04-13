@@ -38,9 +38,9 @@
 <br/>
 
 <div align=center>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false" alt="readme stats" /><br/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/><br/>  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false" alt="readme stats" style="width: 500px;" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats" style="width: 500px;" /><br/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" style="width: 500px;" />  
 </div>
 
 ---
