@@ -38,10 +38,10 @@
 <br/>
 
 <div align=center>
-  <img  src="https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/><br/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false" alt="readme stats" /><br/>
-  <img  src="https://github-contributor-stats.vercel.app/api?username=s3annnyyy&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contribution" /><br/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" /><br/>  
+  <img  src="https://github-readme-stats.vercel.app/api?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=s3annnyyy&theme=dracula&hide_border=false" alt="readme stats" />
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3annnyyy&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />  
 </div>
 
 ---
